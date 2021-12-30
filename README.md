@@ -23,11 +23,7 @@ This is how you make a list, if you need one:
 
 Any question on the topic of SCRUM is answered using the knowledge stored in the Neurostore. Currently the knowledge is limited to a SCRUM glossary. However, it can be supplemented by the SCRUM Foundation or wiki.
 
-*Images will make your README look nice!
-*![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-*Resize images with HTML tag:
-*<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://www.sogln.de/lpm_data/europa/frage_antwort.png" width="300">
 
 This is how you create code examples:
 ```
