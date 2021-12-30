@@ -23,8 +23,7 @@ This is how you make a list, if you need one:
 
 Any question on the topic of SCRUM is answered using the knowledge stored in the Neurostore. Currently the knowledge is limited to a SCRUM glossary. However, it can be supplemented by the SCRUM Foundation or wiki.
 
-<img src="https://www.sogln.de/frage_antwort.jpg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://www.sogln.de/_allgemein/frage_antwort.jpg" width="300">
 
 This is how you create code examples:
 ```
